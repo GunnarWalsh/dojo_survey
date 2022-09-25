@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.language_label{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dojo_label{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.name_label{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.comment_label{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.submit{
+    background-color: aquamarine;
+    margin-left: 50%;
+}
